@@ -1,16 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
+    background-color: #fff0f5;
     margin: 40px;
     max-width: 900px;
 }
 
 h1 {
     font-size: 40px;
+    color: #c94f7c;
 }
 
 h2 {
     margin-top: 30px;
+    color: #a83f68;
 }
 
 p {
@@ -18,5 +20,5 @@ p {
 }
 
 a {
-    color: #5555aa;
+    color: #d45d8c;
 }
